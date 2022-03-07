@@ -6,6 +6,11 @@ My name is **Georgii Semenov**. 🇬🇧 C2 | 🇸🇪 B1+ | 🇪🇪 A1
 
 🔭 Java Project Programming Teacher &nbsp; ![](https://img.shields.io/badge/-Academy%20of%20Digital%20Technology-informational)
 
+🏆 Awards: 
+* Best 'Programming technology' section presentation award 'Congress of Young Scientists' :clock130: 2021
+* Prize-winner in Software Engineering student olympiad 'Ya-Professional' :clock130: 2021
+* Prize-winner in Mathematics school olympiad 'Phystech' :clock130: 2020, 2019
+* Honored graduate of Samsung IT School :clock130: 2016
 
 ### Software projects
 
