@@ -19,7 +19,7 @@ My name is **Georgii Semenov**. 🇬🇧 C2 | 🇸🇪 B1+ | 🇪🇪 A1
 | **Full-Stack**  | | |
 | 👨‍🎓 [**Olympiad API**](https://github.com/MrGeorgeous/OlympiadAPI) & [~~**HighOlymp**~~](https://github.com/MrGeorgeous/higholymp)| Russian school olympiad privileges assessment tool | ![](https://img.shields.io/badge/-python-blue) ![](https://img.shields.io/badge/-php-blueviolet) |
 | :raising_hand: [**DLS Project**](https://github.com/MrGeorgeous/DLSProject) | Human image detection frontend & backend project | ![](https://img.shields.io/badge/-python-blue) |
-| ❔ [**SmartTrain**](https://github.com/MrGeorgeous/SmartTrain) | Web application to create quiz and tests | ![](https://img.shields.io/badge/-php-blueviolet) |
+| ❔ [**~~SmartTrain~~**](https://github.com/MrGeorgeous/SmartTrain) | Web application to create quiz and tests | ![](https://img.shields.io/badge/-php-blueviolet) |
 | **Frontend**  | | |
 | :cactus: [**Metro Template**](https://github.com/MrGeorgeous/WebProgramming) | Hand-crafted html website template | ![](https://img.shields.io/badge/-html-lightgrey) ![](https://img.shields.io/badge/-jekyll-yellowgreen) | [:eyes:](https://mrgeorgeous.github.io/WebProgramming/) |
 | **Miscellaneous**  | | |
