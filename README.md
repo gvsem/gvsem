@@ -1,6 +1,6 @@
 ### Hej! 👋
 
-My name is **Georgii Semenov**. 🇬🇧 C2 | 🇸🇪 B1+ | 🇪🇪 A1
+My name is **Georgii Semenov**. 🇬🇧 C2 | 🇸🇪 B1+ | 🇪🇪 A1 | [Telegram](https://t.me/GVSemenov) | [LinkedIn](https://www.linkedin.com/in/georgii-semenov-ba0715230/)
 
 :three: B.S. Information Systems & Technologies &nbsp; ![](https://img.shields.io/badge/-ITMO%20University-informational)
 
