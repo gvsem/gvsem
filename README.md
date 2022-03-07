@@ -1,8 +1,13 @@
 ### Hej! 👋
 
-My name is **Georgii Semenov**
+My name is **Georgii Semenov**. 🇬🇧 C2 | 🇸🇪 B1+ | 🇪🇪 A1
+
+:three: B.S. Information Systems & Technologies &nbsp; ![](https://img.shields.io/badge/-ITMO%20University-informational)
+
+🔭 Java Project Programming Teacher &nbsp; ![](https://img.shields.io/badge/-Academy%20of%20Digital%20Technology-informational)
 
 
+### Software projects
 
 |||||
 |----|----|----|----|
@@ -23,9 +28,13 @@ My name is **Georgii Semenov**
 | 🚇 [**MetroSPB**](https://github.com/MrGeorgeous/MetroSPB) | Renders of the Saint-Petersburg subway signs | ![](https://img.shields.io/badge/-python-blue) |
 | 🔨 [**emailRecovery**](https://github.com/MrGeorgeous/emailRecovery) | Document recovery using Caesar shift along ASCII table | ![](https://img.shields.io/badge/-python-blue) |
 
+### Publications
 
 
-
+* [Digital kompetens i svenska skolor](https://drive.google.com/file/d/174mwpHIrHD1jx7XdGlqePXccqY9Fi1TY/view?usp=sharing)
+* [Project programming course of extracurricular education](https://drive.google.com/file/d/1PB9pSPzZnYiLQkmg4xgOY7rGaGwDTLat/view?usp=sharing)
+* [C++ template STL library for comparison and merging collections in optimistic data replication applications](https://drive.google.com/file/d/1sBp_dfrh9gAiBL4tyk1blLVHW2QA2H-q/view?usp=sharing)
+* [Formal Rules to Produce Object Notation for EXPRESS Schema-Driven Data](https://drive.google.com/file/d/1AfCnkN3nU2KXG5GxceGEUHDlwVVwJrV7/view?usp=sharing)
 <!--
 [**RespDB**](https://github.com/MrGeorgeous/RespDB): 📁 Client-server key-value storage based on para-RESP protocol ![](https://img.shields.io/badge/-java-orange) 
 
