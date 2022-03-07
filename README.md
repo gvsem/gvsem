@@ -22,7 +22,7 @@ My name is **Georgii Semenov**. 🇬🇧 C2 | 🇸🇪 B1+ | 🇪🇪 A1 | [Tele
 | :page_with_curl: [**Gistify**](https://gitlab.com/MrGeorgeous/gistify/) | Visual Studio Code extension to publish snippets to Gists & Pastebin | ![](https://img.shields.io/badge/-typescript-yellowgreen) | [:eyes:](https://marketplace.visualstudio.com/items?itemName=GistifyAB.gistify) |
 | :bus: [~~**Gallop API**~~](https://github.com/MrGeorgeous/Gallop) | An API to build complex routes across the Europe using heuristics and stuff | ![](https://img.shields.io/badge/-php-blueviolet) | [:page_with_curl:](https://drive.google.com/file/d/1S57PW5R-_rxWZxhGG2srKXUp9TRxKFcW/view?usp=sharing) |
 | **Full-Stack**  | | |
-| 👨‍🎓 [**Olympiad API**](https://github.com/MrGeorgeous/OlympiadAPI) & [~~**HighOlymp**~~](https://github.com/MrGeorgeous/higholymp)| Russian school olympiad privileges assessment tool | ![](https://img.shields.io/badge/-python-blue) ![](https://img.shields.io/badge/-php-blueviolet) |
+| 👨‍🎓 [**Olympiad API**](https://github.com/MrGeorgeous/OlympiadAPI) & [~~**HighOlymp**~~](https://github.com/MrGeorgeous/higholymp)| Russian school olympiad privileges assessment tool | ![](https://img.shields.io/badge/-python-blue) ![](https://img.shields.io/badge/-php-blueviolet) | [:eyes:](https://mrgeorgeous.github.io/OlympiadAPI/data/site/)|
 | :raising_hand: [**DLS Project**](https://github.com/MrGeorgeous/DLSProject) | Human image detection frontend & backend project | ![](https://img.shields.io/badge/-python-blue) |
 | ❔ [**~~SmartTrain~~**](https://github.com/MrGeorgeous/SmartTrain) | Web application to create quiz and tests | ![](https://img.shields.io/badge/-php-blueviolet) |
 | **Frontend**  | | |
