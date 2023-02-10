@@ -4,12 +4,14 @@ My name is **Georgii Semenov**. 🇬🇧 C2 | 🇸🇪 B1+ | 🇪🇪 A1 | [Tele
 
 :four: B.S. Information Systems & Technologies &nbsp; ![](https://img.shields.io/badge/-ITMO%20University-informational)
 
-🔭 Java Project Programming Teacher &nbsp; ![](https://img.shields.io/badge/-Academy%20of%20Digital%20Technology-informational)
+🔭 Software Engineer &nbsp; ![](https://img.shields.io/badge/-Institute%20of%20System%20Programming%20RAS-informational)
+
+🔭 Java Project Programming Teacher &nbsp; ![](https://img.shields.io/badge/-Samsung%20IT%20School%20%28Anichkov%20Lyceum%29-informational)
 
 🏆 Awards: 
 * Best 'Programming technology' section presentation award 'Congress of Young Scientists' :clock130: 2021
-* Prize-winner in Software Engineering student olympiad 'Ya-Professional' :clock130: 2021
-* Prize-winner in Mathematics school olympiad 'Phystech' :clock130: 2020, 2019
+* Prize-winner in Software Engineering student olympiad 'Ya-Professional' :clock130: 2021, 2022
+* Prize-winner in Mathematics school olympiad 'Phystech' :clock130: 2019, 2020
 * Honored graduate of Samsung IT School :clock130: 2016
 
 ### Software projects
