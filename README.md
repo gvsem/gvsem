@@ -1,18 +1,15 @@
-### Hej! 👋
+![](https://img.shields.io/badge/Georgii%20Semenov-364968?&style=for-the-badge&color=364968) &nbsp;
+[![](https://img.shields.io/badge/gsemenov.ru-fddf97?&style=for-the-badge&labelColor=364968)](https://www.gsemenov.ru)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GVSemenov)
 
-My name is **Georgii Semenov**. 🇬🇧 C2 | 🇸🇪 B1+ | 🇪🇪 A1 | [Telegram](https://t.me/GVSemenov) | [LinkedIn](https://www.linkedin.com/in/georgii-semenov-ba0715230/)
+![](https://img.shields.io/badge/-ITMO%20University-informational)
+![](https://img.shields.io/badge/-Institute%20of%20System%20Programming%20RAS-informational)
+![](https://img.shields.io/badge/-Samsung%20IT%20School%20@%20Anichkov%20Lyceum-informational)
 
-:four: B.S. Information Systems & Technologies &nbsp; ![](https://img.shields.io/badge/-ITMO%20University-informational)
+🏆 Призер <img align="center" height= "25" src="https://img.shields.io/badge/%D0%AF%20%E2%80%94%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-634ea2?style=for-the-badge&logoColor=white"> по направлениям **Программная инженерия** и **Бизнес-информатика**
 
-🔭 Software Engineer &nbsp; ![](https://img.shields.io/badge/-Institute%20of%20System%20Programming%20RAS-informational)
-
-🔭 Java Project Programming Teacher &nbsp; ![](https://img.shields.io/badge/-Samsung%20IT%20School%20%28Anichkov%20Lyceum%29-informational)
-
-🏆 Awards: 
-* Best 'Programming technology' section presentation award 'Congress of Young Scientists' :clock130: 2021
-* Prize-winner in Software Engineering student olympiad 'Ya-Professional' :clock130: 2021, 2022
-* Prize-winner in Mathematics school olympiad 'Phystech' :clock130: 2019, 2020
-* Honored graduate of Samsung IT School :clock130: 2016
+<hr>
 
 ### Software projects
 
