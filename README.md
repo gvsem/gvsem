@@ -7,74 +7,37 @@
 ![](https://img.shields.io/badge/-Institute%20of%20System%20Programming%20RAS-informational)
 ![](https://img.shields.io/badge/-Samsung%20IT%20School%20@%20Anichkov%20Lyceum-informational)
 
-🏆 Призер <img align="center" height= "25" src="https://img.shields.io/badge/%D0%AF%20%E2%80%94%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-634ea2?style=for-the-badge&logoColor=white"> по направлениям **Программная инженерия** и **Бизнес-информатика**
+<img align="center" height= "25" src="https://img.shields.io/badge/%D0%AF%20%E2%80%94%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-634ea2?style=for-the-badge&logoColor=white"> &nbsp; Prize-winner in **Software Engineering** и **Business Informatics**
 
 <hr>
 
 ### Software projects
 
-|||||
-|----|----|----|----|
-| **Backend**  | | |
-| 📁 [**RespDB**](https://github.com/gvsem/RespDB)| Client-server key-value storage based on para-RESP protocol | ![](https://img.shields.io/badge/-java-orange) |
-| :arrow_heading_up: [**Deltas**](https://github.com/gvsem/Deltas) | Diff & Merge on primitive types with support of classes | ![](https://img.shields.io/badge/-cpp-brightgreen) | [:page_with_curl:](https://drive.google.com/file/d/1sBp_dfrh9gAiBL4tyk1blLVHW2QA2H-q/view?usp=sharing) [🏆](https://drive.google.com/file/d/18WrGpdtCCxDc2Z_VU049Uw9WNQVHQ9f2/view?usp=sharing) |
-| :page_with_curl: [**Gistify**](https://gitlab.com/gvsem/gistify/) | Visual Studio Code extension to publish snippets to Gists & Pastebin | ![](https://img.shields.io/badge/-typescript-yellowgreen) | [:eyes:](https://marketplace.visualstudio.com/items?itemName=GistifyAB.gistify) |
-| :bus: [~~**Gallop API**~~](https://github.com/gvsem/Gallop) | An API to build complex routes across Europe using heuristics and stuff | ![](https://img.shields.io/badge/-php-blueviolet) | [:page_with_curl:](https://drive.google.com/file/d/1S57PW5R-_rxWZxhGG2srKXUp9TRxKFcW/view?usp=sharing) |
-| **Full-Stack**  | | |
-| 👨‍🎓 [**Olympiad API**](https://github.com/gvsem/OlympiadAPI)| Russian school olympiad privileges assessment tool | ![](https://img.shields.io/badge/-python-blue) ![](https://img.shields.io/badge/-php-blueviolet) | [:eyes:](https://gvsem.github.io/OlympiadAPI/data/site/)|
-| :raising_hand: [**DLS Project**](https://github.com/gvsem/DLSProject) | Human image detection frontend & backend project | ![](https://img.shields.io/badge/-python-blue) |
-| ❔ [**~~SmartTrain~~**](https://github.com/gvsem/SmartTrain) | Web application to create quiz and tests | ![](https://img.shields.io/badge/-php-blueviolet) |
-| **Frontend**  | | |
-| :cactus: [**Metro Template**](https://github.com/gvsem/WebProgramming) | Hand-crafted html website template | ![](https://img.shields.io/badge/-html-lightgrey) ![](https://img.shields.io/badge/-jekyll-yellowgreen) | [:eyes:](https://gvsem.github.io/WebProgramming/) |
-| **Miscellaneous**  | | |
-| :watermelon: [**Graphics Course**](https://github.com/gvsem/ComputerGeometryAndGraphics) | Toolset to process images with color spaces and brightness |  ![](https://img.shields.io/badge/-cpp-brightgreen) |
-| :wrench: [**Oberbeck Pendulum**](https://github.com/gvsem/OberbeckPendulum) | Software for Oberbeck Pendulum laboratory work automatization | ![](https://img.shields.io/badge/-c-brightgreen) ![](https://img.shields.io/badge/-python-blue) | [:page_with_curl:](https://github.com/gvsem/OberbeckPendulum/blob/master/Article.pdf) [:bar_chart:](https://github.com/gvsem/OberbeckPendulum/blob/master/Presentation.pdf) |
-| 🚇 [**MetroSPB**](https://github.com/gvsem/MetroSPB) | Renders of the Saint-Petersburg subway signs | ![](https://img.shields.io/badge/-python-blue) |
-| 🔨 [**emailRecovery**](https://github.com/gvsem/emailRecovery) | Document recovery using Caesar shift along ASCII table | ![](https://img.shields.io/badge/-python-blue) |
+<a href="https://github.com/gvsem/fonar"><img align="center" height="40" src="https://img.shields.io/badge/fonar-364968?&style=for-the-badge"></a> &nbsp; Social network for philosophic communication &nbsp; ![](https://img.shields.io/badge/-typescript-yellowgreen)
 
-My school projects: & [**HighOlymp**](https://github.com/gvsem/higholymp)
+<img align="center" height="40" src="https://img.shields.io/badge/fonar%20messenger-364968?&style=for-the-badge">&nbsp;<a href="https://github.com/gvsem/fonar-server"><img align="top" height="30" src="https://img.shields.io/badge/android%20client-fddf97?&style=for-the-badge"></a> 
+&nbsp; Anonymous chat messenger with Android client &nbsp; ![](https://img.shields.io/badge/-java-orange) ![](https://img.shields.io/badge/-android-green)
+
+<a href="https://github.com/gvsem/OlympiadAPI"><img align="center" height="40" src="https://img.shields.io/badge/olympiad%20api-364968?&style=for-the-badge"></a><a href="https://mrgeorgeous.github.io/OlympiadAPI/data/site/">&nbsp;<img align="top" height="30" src="https://img.shields.io/badge/demo-fddf97?&style=for-the-badge"></a> &nbsp; Russian school olympiad privileges information system draft &nbsp; ![](https://img.shields.io/badge/-python-blue)
+
+<a href="https://github.com/gvsem/gistify"><img align="center" height="40" src="https://img.shields.io/badge/gistify-154a99?&style=for-the-badge"></a><a href="https://marketplace.visualstudio.com/items?itemName=GistifyAB.gistify">&nbsp;<img align="top" height="30" src="https://img.shields.io/badge/Download-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> &nbsp; Visual Studio Code extension to publish snippets to Gists & Pastebin &nbsp; ![](https://img.shields.io/badge/-typescript-yellowgreen)
+
+<a href="https://github.com/gvsem/Deltas"><img align="center" height="40" src="https://img.shields.io/badge/deltas-90EE90?&style=for-the-badge"></a><a href="https://drive.google.com/file/d/1sBp_dfrh9gAiBL4tyk1blLVHW2QA2H-q/view?usp=sharing">&nbsp;<img align="top" height="30" src="https://img.shields.io/badge/Paper-dddddd.svg?style=for-the-badge"></a> &nbsp; Differential transformations on primitive types and collections for Diff & Merge problem &nbsp; ![](https://img.shields.io/badge/-cpp-brightgreen)
+
+
+🤡 Fun and hobbies:
+  * [**MetroSPB**](https://github.com/gvsem/MetroSPB) Renders of the Saint-Petersburg subway signs ![](https://img.shields.io/badge/-python-blue)
+  * [**emailRecovery**](https://github.com/gvsem/emailRecovery) Document recovery using Caesar shift along ASCII table ![](https://img.shields.io/badge/-python-blue)
+
+👨‍🎓 My university labs and courseworks:
+  * [**RespDB**](https://github.com/gvsem/RespDB)| Client-server key-value storage based on para-RESP protocol ![](https://img.shields.io/badge/-java-orange)
+  * [**DLS Project**](https://github.com/gvsem/DLSProject) Human image detection frontend & backend project using pre-trained model ![](https://img.shields.io/badge/-python-blue)
+  * [**Metro Template**](https://github.com/gvsem/WebProgramming) Hand-crafted html website template ![](https://img.shields.io/badge/-html-lightgrey) ![](https://img.shields.io/badge/-jekyll-yellowgreen) ( [:eyes: Open](https://gvsem.github.io/WebProgramming/) )
+  * [**Graphics Course**](https://github.com/gvsem/ComputerGeometryAndGraphics) Toolset to process images with color spaces and brightness ![](https://img.shields.io/badge/-cpp-brightgreen)
+  * [**Oberbeck Pendulum**](https://github.com/gvsem/OberbeckPendulum) Software for Oberbeck Pendulum laboratory work automatization ![](https://img.shields.io/badge/-c-brightgreen) ![](https://img.shields.io/badge/-python-blue) ( [:page_with_curl: Paper](https://github.com/gvsem/OberbeckPendulum/blob/master/Article.pdf) [:bar_chart: Keynote](https://github.com/gvsem/OberbeckPendulum/blob/master/Presentation.pdf) )
+  
+🏫 My school projects: [**HighOlymp**](https://github.com/gvsem/higholymp) ![](https://img.shields.io/badge/-php-blueviolet), [**SmartTrain**](https://github.com/gvsem/SmartTrain) ![](https://img.shields.io/badge/-php-blueviolet), [**Gallop API**](https://github.com/gvsem/Gallop) ![](https://img.shields.io/badge/-php-blueviolet) ([:page_with_curl: Paper](https://drive.google.com/file/d/1g6an_21HzA2iVZaYmE34pPz_C8SNvBL0/view?usp=sharing))
 
 ### Publications
 
-
-* [Digital kompetens i svenska skolor](https://drive.google.com/file/d/174mwpHIrHD1jx7XdGlqePXccqY9Fi1TY/view?usp=sharing)
-* [Project programming course of extracurricular education](https://drive.google.com/file/d/1PB9pSPzZnYiLQkmg4xgOY7rGaGwDTLat/view?usp=sharing)
-* [C++ template STL library for comparison and merging collections in optimistic data replication applications](https://drive.google.com/file/d/1sBp_dfrh9gAiBL4tyk1blLVHW2QA2H-q/view?usp=sharing)
-* [Formal Rules to Produce Object Notation for EXPRESS Schema-Driven Data](https://drive.google.com/file/d/1AfCnkN3nU2KXG5GxceGEUHDlwVVwJrV7/view?usp=sharing)
-<!--
-[**RespDB**](https://github.com/gvsem/RespDB): 📁 Client-server key-value storage based on para-RESP protocol ![](https://img.shields.io/badge/-java-orange) 
-
-
-
-
-[**Olympiad API**](https://github.com/gvsem/OlympiadAPI) & [**HighOlymp**](https://github.com/gvsem/higholymp): 👨‍🎓 Olympiad privileges assessment tool ![](https://img.shields.io/badge/-python-blue) ![](https://img.shields.io/badge/-php-blueviolet)
-
-[**Deltas**](https://github.com/gvsem/Deltas): 🏆 Diff&Merge on primitive types with support of classes ![](https://img.shields.io/badge/-cpp-brightgreen)
-
-[**HTML Website template **]
-
-[**DLS Project**](https://github.com/gvsem/DLSProject): 🧑‍🎓 Human image detection frontend & backend project ![](https://img.shields.io/badge/-python-blue)
-
-[**SmartTrain**](https://github.com/gvsem/SmartT): ❔ Web application to create quiz and tests ![](https://img.shields.io/badge/-php-blueviolet)
-
-#### Miscellaneous
-
-[**MetroSPB**](https://github.com/gvsem/MetroSPB): 🚇 Renders of the Saint-Petersburg subway signs ![](https://img.shields.io/badge/-python-blue)
-
-[**emailRecovery**](https://github.com/gvsem/emailRecovery): 🔨 Document recovery using Caesar shift along ASCII table ![](https://img.shields.io/badge/-python-blue)
--->
-
-<!--
-**gvsem/gvsem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See my publications on my website: [gsemenov.ru](https://www.gsemenov.ru/publications)
