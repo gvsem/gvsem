@@ -15,7 +15,7 @@
 
 <a href="https://github.com/gvsem/kliker"><img align="center" height="40" src="https://img.shields.io/badge/kliker-FF5733?&style=for-the-badge"></a> &nbsp; Switch between your keynote' slides broadcasted to indefinite number of displays &nbsp; ![](https://img.shields.io/badge/-java-orange)
 
-<img align="center" height="40" src="https://img.shields.io/badge/fonar%20messenger-364968?&style=for-the-badge">&nbsp;<a href="https://github.com/gvsem/fonar-server"><img align="top" height="30" src="https://img.shields.io/badge/android%20client-fddf97?&style=for-the-badge"></a> 
+<a href="https://github.com/gvsem/fonar-server"><img align="center" height="40" src="https://img.shields.io/badge/fonar%20messenger-364968?&style=for-the-badge"></a>&nbsp;<a href="https://github.com/gvsem/fonar-android"><img align="top" height="30" src="https://img.shields.io/badge/android%20client-fddf97?&style=for-the-badge"></a> 
 &nbsp; Anonymous chat messenger with Android client &nbsp; ![](https://img.shields.io/badge/-java-orange) ![](https://img.shields.io/badge/-android-green)
 
 <a href="https://github.com/gvsem/fonar"><img align="center" height="40" src="https://img.shields.io/badge/fonar-364968?&style=for-the-badge"></a> &nbsp; Social network for philosophic communication &nbsp; ![](https://img.shields.io/badge/-typescript-yellowgreen)
