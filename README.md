@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/-Institute%20of%20System%20Programming%20RAS-informational)
 ![](https://img.shields.io/badge/-Samsung%20IT%20School%20@%20Anichkov%20Lyceum-informational)
 
-<img align="center" height= "25" src="https://img.shields.io/badge/%D0%AF%20%E2%80%94%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-634ea2?style=for-the-badge&logoColor=white"> &nbsp; Prize-winner in **Software Engineering** и **Business Informatics**
+<img align="center" height= "25" src="https://img.shields.io/badge/%D0%AF%20%E2%80%94%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-634ea2?style=for-the-badge&logoColor=white"> &nbsp; Prize-winner in **Software Engineering** and **Business Informatics**
 
 <hr>
 
@@ -32,7 +32,7 @@
   * [**emailRecovery**](https://github.com/gvsem/emailRecovery) Document recovery using Caesar shift along ASCII table ![](https://img.shields.io/badge/-python-blue)
 
 👨‍🎓 My university labs and courseworks:
-  * [**RespDB**](https://github.com/gvsem/RespDB)| Client-server key-value storage based on para-RESP protocol ![](https://img.shields.io/badge/-java-orange)
+  * [**RespDB**](https://github.com/gvsem/RespDB) Client-server key-value storage based on para-RESP protocol ![](https://img.shields.io/badge/-java-orange)
   * [**DLS Project**](https://github.com/gvsem/DLSProject) Human image detection frontend & backend project using pre-trained model ![](https://img.shields.io/badge/-python-blue)
   * [**Metro Template**](https://github.com/gvsem/WebProgramming) Hand-crafted html website template ![](https://img.shields.io/badge/-html-lightgrey) ![](https://img.shields.io/badge/-jekyll-yellowgreen) ( [:eyes: Open](https://gvsem.github.io/WebProgramming/) )
   * [**Graphics Course**](https://github.com/gvsem/ComputerGeometryAndGraphics) Toolset to process images with color spaces and brightness ![](https://img.shields.io/badge/-cpp-brightgreen)
