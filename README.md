@@ -29,9 +29,9 @@
 https://github.com/gvsem/jb-sentiments
 
 🍪 Small internship entry projects:
-* [**Olympiad Bot**](https://github.com/gvsem/olympiad-bot) Telegram bot to view and search school olympiads (@ JetBrains) ![](https://img.shields.io/badge/-java-orange)
-* [**Secret Santa Service**](https://github.com/gvsem/olympiad-bot) Spring service to hold 'secret santa' games (@ Ya-Professional) ![](https://img.shields.io/badge/-java-orange)
-* [**Sentiments**](https://github.com/gvsem/jb-sentiments) ML exercise in text classification (sentiments) (@ JetBrains) ![](https://img.shields.io/badge/-python-blue)
+* ![JetBrains](https://img.shields.io/badge/JetBrains-black?&style=for-the-badge&labelColor=white) &nbsp;&nbsp; [**Olympiad Bot**](https://github.com/gvsem/olympiad-bot) Telegram bot to view and search school olympiads ![](https://img.shields.io/badge/-java-orange)
+* ![Я-Профессионал](https://img.shields.io/badge/%D0%AF%20%E2%80%94%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-634ea2?style=for-the-badge&logoColor=white) &nbsp;&nbsp; [**Secret Santa Service**](https://github.com/gvsem/olympiad-bot) Spring service to hold 'secret santa' games ![](https://img.shields.io/badge/-java-orange)
+* ![JetBrains](https://img.shields.io/badge/JetBrains-black?&style=for-the-badge&labelColor=white) &nbsp;&nbsp; [**Sentiments**](https://github.com/gvsem/jb-sentiments) ML exercise in text classification (sentiments) ![](https://img.shields.io/badge/-python-blue)
 
 🤡 Fun and hobbies:
   * [**MetroSPB**](https://github.com/gvsem/MetroSPB) Renders of the Saint-Petersburg subway signs ![](https://img.shields.io/badge/-python-blue)
