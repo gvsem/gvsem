@@ -26,6 +26,12 @@
 
 <a href="https://github.com/gvsem/Deltas"><img align="center" height="40" src="https://img.shields.io/badge/deltas-90EE90?&style=for-the-badge"></a><a href="https://drive.google.com/file/d/1sBp_dfrh9gAiBL4tyk1blLVHW2QA2H-q/view?usp=sharing">&nbsp;<img align="top" height="30" src="https://img.shields.io/badge/Paper-dddddd.svg?style=for-the-badge"></a> &nbsp; Differential transformations on primitive types and collections for Diff & Merge problem &nbsp; ![](https://img.shields.io/badge/-cpp-brightgreen)
 
+https://github.com/gvsem/jb-sentiments
+
+🍪 Small internship entry projects:
+* [**Olympiad Bot**](https://github.com/gvsem/olympiad-bot) Telegram bot to view and search school olympiads (@ JetBrains) ![](https://img.shields.io/badge/-java-orange)
+* [**Secret Santa Service**](https://github.com/gvsem/olympiad-bot) Spring service to hold 'secret santa' games (@ Ya-Professional) ![](https://img.shields.io/badge/-java-orange)
+* [**Sentiments**](https://github.com/gvsem/jb-sentiments) ML exercise in text classification (sentiments) (@ JetBrains) ![](https://img.shields.io/badge/-python-blue)
 
 🤡 Fun and hobbies:
   * [**MetroSPB**](https://github.com/gvsem/MetroSPB) Renders of the Saint-Petersburg subway signs ![](https://img.shields.io/badge/-python-blue)
