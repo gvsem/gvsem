@@ -9,6 +9,8 @@
 
 <img align="center" height= "25" src="https://img.shields.io/badge/%D0%AF%20%E2%80%94%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-634ea2?style=for-the-badge&logoColor=white"> &nbsp; Prize-winner in **Software Engineering** and **Business Informatics**
 
+<img align="center" height= "25" src="https://img.shields.io/badge/Deep%20Learning%20School%20@MIPT-020941?style=for-the-badge&logoColor=fcdb00"> &nbsp; 1st degree diploma in **Artificial Intelligence**
+
 <hr>
 
 ### Software projects
