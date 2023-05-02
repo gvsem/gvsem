@@ -11,6 +11,8 @@
 
 <img align="center" height= "25" src="https://img.shields.io/badge/Deep%20Learning%20School%20@MIPT-020941?style=for-the-badge&logoColor=fcdb00"> &nbsp; 1st degree diploma in **Artificial Intelligence**
 
+<img align="center" height= "25" src="https://img.shields.io/badge/Mega%20Olympiad%20@ITMO-41717F?style=for-the-badge&logoColor=fcdb00"> &nbsp; Winner in **Artificial Intelligence**
+
 <hr>
 
 ### Software projects
