@@ -13,6 +13,10 @@
 
 <img align="center" height= "25" src="https://img.shields.io/badge/Mega%20Olympiad%20@ITMO-41717F?style=for-the-badge&logoColor=fcdb00"> &nbsp; Winner in **Artificial Intelligence**
 
+<img align="center" height= "25" src="https://img.shields.io/badge/Young%20Scientists%20Congress%20@ITMO-91C471?style=for-the-badge&logoColor=fcdb00"> &nbsp; Best keynote award in **Programming Technology** section
+
+<img align="center" height= "25" src="https://img.shields.io/badge/Alfa%20Chance-DE2E21?style=for-the-badge&logoColor=fcdb00"> &nbsp; Scholarship winner
+
 <hr>
 
 ### Software projects
