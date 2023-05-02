@@ -15,7 +15,9 @@
 
 <img align="center" height= "25" src="https://img.shields.io/badge/Young%20Scientists%20Congress%20@ITMO-91C471?style=for-the-badge&logoColor=fcdb00"> &nbsp; Best keynote award in **Programming Technology** section
 
-<img align="center" height= "25" src="https://img.shields.io/badge/Alfa%20Chance-DE2E21?style=for-the-badge&logoColor=fcdb00"> &nbsp; Scholarship winner
+<img align="center" height= "25" src="https://img.shields.io/badge/Alfa%20Chance-DE2E21?style=for-the-badge&logoColor=fcdb00"> &nbsp; Scholarship winner in **Leadership**
+
+<img align="center" height= "25" src="https://img.shields.io/badge/Phystech%20@MIPT-3080D0?style=for-the-badge&logoColor=fcdb00"> &nbsp; Prize-winner in **Mathematics**
 
 <hr>
 
