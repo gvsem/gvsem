@@ -1,11 +1,9 @@
 ![](https://img.shields.io/badge/Georgii%20Semenov-364968?&style=for-the-badge&color=364968) &nbsp;
-[![](https://img.shields.io/badge/gsemenov.ru-fddf97?&style=for-the-badge&labelColor=364968)](https://www.gsemenov.ru)
+[![](https://img.shields.io/badge/gvsem.com-fddf97?&style=for-the-badge&labelColor=364968)](https://gvsem.com)
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GVSemenov)
 
 ![](https://img.shields.io/badge/-ITMO%20University-informational)
-![](https://img.shields.io/badge/-Institute%20of%20System%20Programming%20RAS-informational)
-![](https://img.shields.io/badge/-Samsung%20IT%20School%20@%20Anichkov%20Lyceum-informational)
 
 <img align="center" height= "25" src="https://img.shields.io/badge/%D0%AF%20%E2%80%94%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-634ea2?style=for-the-badge&logoColor=white"> &nbsp; 🥇 Gold medal in **Software Engineering** and 🥈 Silver medal in **Business Informatics**
 
@@ -30,7 +28,7 @@
 
 <a href="https://github.com/gvsem/fonar"><img align="center" height="40" src="https://img.shields.io/badge/fonar-364968?&style=for-the-badge"></a> &nbsp; Social network for philosophic communication &nbsp; ![](https://img.shields.io/badge/-typescript-yellowgreen)
 
-<a href="https://github.com/gvsem/OlympiadAPI"><img align="center" height="40" src="https://img.shields.io/badge/olympiad%20api-364968?&style=for-the-badge"></a><a href="https://mrgeorgeous.github.io/OlympiadAPI/data/site/">&nbsp;<img align="top" height="30" src="https://img.shields.io/badge/demo-fddf97?&style=for-the-badge"></a> &nbsp; Russian school olympiad privileges information system draft &nbsp; ![](https://img.shields.io/badge/-python-blue)
+<a href="https://github.com/gvsem/OlympiadAPI"><img align="center" height="40" src="https://img.shields.io/badge/olympiad%20api-364968?&style=for-the-badge"></a><a href="https://gvsem.github.io/OlympiadAPI/data/site/">&nbsp;<img align="top" height="30" src="https://img.shields.io/badge/demo-fddf97?&style=for-the-badge"></a> &nbsp; Russian school olympiad privileges information system draft &nbsp; ![](https://img.shields.io/badge/-python-blue)
 
 <a href="https://github.com/gvsem/gistify"><img align="center" height="40" src="https://img.shields.io/badge/gistify-154a99?&style=for-the-badge"></a><a href="https://marketplace.visualstudio.com/items?itemName=GistifyAB.gistify">&nbsp;<img align="top" height="30" src="https://img.shields.io/badge/Download-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a> &nbsp; Visual Studio Code extension to publish snippets to Gists & Pastebin &nbsp; ![](https://img.shields.io/badge/-typescript-yellowgreen)
 
@@ -38,7 +36,7 @@
 
 🍪 Small internship entry projects:
 * <img align="center" height= "25" src="https://img.shields.io/badge/JetBrains-black?&style=for-the-badge&labelColor=white"> &nbsp; [**Olympiad Bot**](https://github.com/gvsem/olympiad-bot) Telegram bot to view and search school olympiads ![](https://img.shields.io/badge/-java-orange)
-* <img align="center" height= "25" src="https://img.shields.io/badge/%D0%AF%20%E2%80%94%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-634ea2?style=for-the-badge&logoColor=white"> &nbsp; [**Secret Santa Service**](https://github.com/gvsem/profi-se2023) Spring service to hold 'secret santa' games ![](https://img.shields.io/badge/-java-orange)
+* <img align="center" height= "25" src="https://img.shields.io/badge/%D0%AF%20%E2%80%94%20%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-634ea2?style=for-the-badge&logoColor=white"> &nbsp; [**Secret Santa Service**](https://github.com/gvsem/profi-se2023) Spring service to hold 'secret santa' games ![](https://img.shields.io/badge/-java-orange)gs
 * <img align="center" height= "25" src="https://img.shields.io/badge/JetBrains-black?&style=for-the-badge&labelColor=white"> &nbsp; [**Sentiments**](https://github.com/gvsem/jb-sentiments) ML exercise in text classification (sentiments) ![](https://img.shields.io/badge/-python-blue)
 
 🤡 Fun and hobbies:
@@ -56,4 +54,4 @@
 
 ### Publications
 
-See updated list on my website: [gsemenov.ru/publications](https://www.gsemenov.ru/publications)
+See updated list on my website: [gvsem.com/publications](https://gvsem.com/publications)
