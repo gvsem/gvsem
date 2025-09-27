@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/Georgii%20Semenov-364968?&style=for-the-badge&color=364968) &nbsp;
 [![](https://img.shields.io/badge/gvsem.com-fddf97?&style=for-the-badge&labelColor=364968)](https://gvsem.com)
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GVSemenov)
