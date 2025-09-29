@@ -7,5 +7,5 @@
 - RecSys Java Developer @ VK
 
 [![](https://img.shields.io/badge/publications-0A2CEF?&style=for-the-badge&labelColor=060607)](https://gvsem.com/publications)
-[![](https://img.shields.io/badge/educational%20projects-364968?&style=for-the-badge&color=364968)](https://github.com/gvsem-edu/gvsem-edu)
-[![](https://img.shields.io/badge/teaching%20materials-fddf97?&style=for-the-badge&labelColor=364968)](https://github.com/gvsem-teach/gvsem-teach)
+[![](https://img.shields.io/badge/educational%20projects-364968?&style=for-the-badge&color=364968)](https://github.com/orgs/gvsem-edu/repositories)
+[![](https://img.shields.io/badge/teaching%20materials-fddf97?&style=for-the-badge&labelColor=364968)](https://github.com/orgs/gvsem-teach/repositories)
