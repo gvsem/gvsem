@@ -4,7 +4,7 @@
 
 - PhD Student @ ITMO University
 - Student @ Yandex School of Data Analysis
-- RecSys Java Developer @ VK
+- (ex) RecSys Java Developer @ VK
 
 [![](https://img.shields.io/badge/publications-0A2CEF?&style=for-the-badge&labelColor=060607)](https://gvsem.com/publications)
 [![](https://img.shields.io/badge/educational%20projects-364968?&style=for-the-badge&color=364968)](https://github.com/orgs/gvsem-edu/repositories)
